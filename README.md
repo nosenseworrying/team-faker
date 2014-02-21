@@ -19,6 +19,7 @@ Or install it yourself as:
 ## Usage
 
 	Faker::Team.name
+	=> Scorching Green Demons
 
 ## Contributing
 
