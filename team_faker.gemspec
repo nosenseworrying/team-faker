@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["nosenseworrying@gmail.com"]
   gem.description   = "Generates fake team names"
   gem.summary       = "An addon to Faker to generate fake team names"
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/nosenseworrying/team-faker"
   gem.license       = "MIT"
 
   gem.files         = `git ls-files`.split($/)
