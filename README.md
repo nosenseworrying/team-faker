@@ -18,8 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-	Faker::Team.name
-	=> Scorching Green Demons
+  Faker::Team.name
+  => Scorching Green Demons
 
 ## Contributing
 
